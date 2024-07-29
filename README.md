@@ -1,0 +1,4 @@
+| Lecture | Notes                                      | Code                            | Assignment                                      | Questions                                      |
+|---------|--------------------------------------------|---------------------------------|------------------------------------------------|------------------------------------------------|
+| Rust intro, variables, constants, shadowing and destructuring. | [Lecture 1 Notes](https://github.com/kartik-giri/Rust-Notes/blob/main/tut_1/Lect_1_Notes.md)  | [Lecture 1 Code](https://github.com/kartik-giri/Rust-Notes/blob/main/tut_1/src/main.rs)| [N/A]    | [N/A]     |
+| Rust intro, variables, constants, shadowing and destructuring. | [Lecture 1 Notes](https://github.com/kartik-giri/Rust-Notes/blob/main/tut_1/Lect_1_Notes.md)  | [Lecture 1 Code](https://github.com/kartik-giri/Rust-Notes/blob/main/tut_1/src/main.rs)| [N/A]    | [N/A]     |
